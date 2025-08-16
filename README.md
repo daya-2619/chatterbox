@@ -1,6 +1,8 @@
 # 🚀 Chatterbox - Modern Chat Application
 
 A beautiful, feature-rich chat application built with Next.js, MongoDB, and modern web technologies. Connect with friends, share messages, and stay connected in real-time.
+## Live link -
+https://chatterbox-2772.vercel.app
 
 ## ✨ Features
 
